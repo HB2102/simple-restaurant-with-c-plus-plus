@@ -1,0 +1,22 @@
+Morghe Torsh ,30000 ,35 ,morghe motevaset ba torshi va mokhalafat
+Jooje Kabab ,25000 ,30 ,jooje va mokhalafat
+Kabab Koobide ,25000 ,25 ,gooshte taze va salem ba mokhalafat
+Kabab Dande ,40000 ,25 ,kabab dande goosfandie taze va mokhalafat
+kabab Torsh ,30000 ,25 ,kabab barg ba torshie ezafe va mokhalafat
+Kabab Barg ,27000 ,25 ,kabab barg va mokhalafat 
+Khoresht Bademjan ,25000 ,25 ,khoreshte bademjan va mokhalafat
+Khoresht Boughalamoon ,30000 ,25 ,khoresht boughalamoon taze va moghalafat
+Ghorme Sabzi ,17000 ,20 ,ba sabzi haye taze va mokhalafat
+Loobia Plo ,22000 ,20 ,loobia plo ba sib zamini va mokhalafat
+Gheyme ,15000 ,15 ,kamelan pokhte shode va tord ba mokhalafat 
+Khoresht Sibzamini    ,14000 ,15 ,khoreshte sibzamini ba kare va mokhalafat
+Salad Shirazi ,8000 ,5 ,salad shirazi taze
+Salad Fasl ,10000 ,0 ,salad fasle sade
+Ab Madani ,4000 ,0 ,Ab madani damavand
+Nooshabe Meshki ,8000 ,0 ,nooshabe sade
+Nooshabe Narenji ,8000 ,0 ,nooshabe sade
+Limonad    ,8000 ,0 ,nooshabe sade
+Doogh ,5000 ,0 ,doogh karkhane ei
+Doogh Mahali ,9000 ,0 ,doogh mahali taze
+Maste Mahali ,5000 ,0 ,mast mahali taze
+Zeytoon Parvardeh ,12000 ,0 ,zeytoon parvarde mahali	

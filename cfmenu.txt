@@ -1,0 +1,22 @@
+Pizza Makhsuoos ,50000 ,40 ,pizza makhsoos sar ashpaz
+Pizza Gharch o Goosht ,40000 ,35 ,pizza gharch o goosht ba zetoon va sos makhsoos
+Pizza Peperoni ,35000 ,35 ,peperoni va zhambon goosht
+Pizza Rost Beef ,37000 ,35 ,pizza rost beef ba sos ezafe va mokhalafat
+Pizza Panjere ei ,35000 ,32 ,pizza panjere ei sade
+Pizza Sabzijat ,25000 ,30 ,sabzijat mokhtalef va zeytoon ba panir e ezafe
+Sandewich Makhsoos ,30000 ,30 ,sandewich makhsoos sar ashpaz
+Zhambon Goosht ,25000 ,30 ,zhambon goosht 95%
+Zhambon Goosht ,25000 ,27 ,zhambon morgh 95%
+Sandwich Booghalamoon ,27000 ,25 ,sandewich booghalamoon ba mokhalafat
+Sandwich Rost Beef,27000 ,25 ,ssandewich rost beef ba mokhalafat
+Hamberger Makhsoos,30000 ,25 ,hambeger makhsoos sar ashpaz
+Cheesw Berger ,30000 ,25 ,cheese berger ba sos makhsoos 
+Sandwich hot dog ,23000 ,20 ,ssandewich hot dog ba sos ezafe
+Morghe Sokhari ,22000 ,20 ,morghe sokhari ba sos makhsoos
+Sib Zamini Sorkh Karde ,15500 ,15 ,saib zamini ba sos makhsoos
+Salad Fasl ,10000 ,0 ,salad fasle sade
+Ab Madani ,4000 ,0 ,Ab madani damavand
+Nooshabe Meshki ,8000 ,0 ,nooshabe sade
+Nooshabe Narenji ,8000 ,0 ,nooshabe sade
+Limonad ,8000 ,0 ,nooshabe sade
+Doogh ,5000 ,0 ,doogh kaleh
